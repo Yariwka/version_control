@@ -55,3 +55,11 @@ align  | align  | align
 ### Это апельсин
 
 ![orange](orange.png)
+
+# Первые шаги 
+
+* Делаем fork репозитория, в которой потом хотим сделать pull request. Ищем кнопку Fork на странице репозитория 
+https://git@github.com:gulden-geekbrains/version_control.git
+ 
+* Выполняем команду клонирования из своей fork-копии
+git clone вставляем свой адрес репозиотрия на гит хаб (https://github.com/Yariwka/version_control)
