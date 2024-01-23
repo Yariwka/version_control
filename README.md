@@ -43,3 +43,6 @@ git config core.sshCommand "ssh -i ~/.ssh/user-private-key -o IdentitiesOnly=yes
   Добавили текст 
 
   Добавили текст локально
+
+  git pull  отправляем изменения из своего гита в гитхаб
+  
